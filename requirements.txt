@@ -1,0 +1,9 @@
+google-genai
+pandas
+numpy
+fastapi
+python-dotenv
+kagglehub
+datasets
+transformers
+torch
