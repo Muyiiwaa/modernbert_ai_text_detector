@@ -87,7 +87,7 @@ def tokenizer_function(example):
         example["text"],
         padding="max_length",
         truncation=True,
-        max_length=512,  # Reduced from 650
+        max_length=512,  # Reduced from 650, kept running into cuda out of memory error
         return_tensors="pt"
     )
 
