@@ -1,7 +1,7 @@
 google-genai
 pandas
 numpy
-fastapi
+fastapi[all]
 python-dotenv
 kagglehub
 datasets
