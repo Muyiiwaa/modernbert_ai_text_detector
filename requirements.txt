@@ -7,3 +7,4 @@ kagglehub
 datasets
 transformers
 torch
+python-json-logger

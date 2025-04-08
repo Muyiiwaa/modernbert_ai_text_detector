@@ -36,7 +36,7 @@ async def detect_text(
         raise e
     except Exception as e:
         # Catch unexpected errors during prediction request handling
-        logger.exception("Unexpected error during prediction request.")
+        logger.exception(f"Unexpected error {e} during prediction request.")
         raise HTTPException(
             status_code=status.HTTP_500_INTERNAL_SERVER_ERROR,
             detail="An unexpected server error occurred."
