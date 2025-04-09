@@ -2,9 +2,9 @@
 
 **ALERT!! WHATEVER YOU DO, PLEASE READ THE CONCLUSION. EVEN IF YOU DONT EVENTUALLY READ THE ENTIRE CONTENT ON THIS PAGE.**
 
-`Api Doc`: https://ai-detector-1089089108369.us-central1.run.app/api/v1/redoc
-`Swagger Ui`: https://ai-detector-1089089108369.us-central1.run.app/api/v1/doc
-`huggingface spaces` : https://huggingface.co/spaces/muyiiwaa/ai_text_human_modernbert
+- `Api Doc`: https://ai-detector-1089089108369.us-central1.run.app/api/v1/redoc
+- `Swagger Ui`: https://ai-detector-1089089108369.us-central1.run.app/api/v1/doc
+- `huggingface spaces` : https://huggingface.co/spaces/muyiiwaa/ai_text_human_modernbert
 
 ## The Motivation
 
